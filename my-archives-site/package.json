@@ -1,7 +1,0 @@
-{
-  "name": "my-archives-site",
-  "version": "1.0.0",
-  "private": true,
-  "description": "A moodboard-style front door for my archive's on Substack",
-  "engines": { "node": ">=18" }
-}
